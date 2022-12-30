@@ -1,0 +1,13 @@
+Detective Conan music
+
+Musics: 1 - opening, 2 - sad
+
+
+Libraries:
+
+1 - time
+
+2 - playsound
+
+To install it:
+"pip3 install playsound"

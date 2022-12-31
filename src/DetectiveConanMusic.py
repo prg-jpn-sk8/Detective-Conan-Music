@@ -15,7 +15,7 @@ if(x == "y"):
         print("1..")
         sleep(1)
         while True:
-            playsound('sound/etectiveConan.mp3')
+            playsound('sounds/DetectiveConan.mp3')
     elif(choose == "2"):
         print("3..")
         sleep(1)
@@ -24,6 +24,6 @@ if(x == "y"):
         print("1..")
         sleep(1)
         while True:
-            playsound('DetectiveConanSad.mp3')
+            playsound('sounds/DetectiveConanSad.mp3')
 else: 
     exit()
